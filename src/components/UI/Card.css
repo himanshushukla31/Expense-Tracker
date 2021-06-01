@@ -1,0 +1,7 @@
+/* These are particular css properties that are repeated in both ExpenseList and ExpenseItem and hence a 
+common component would reflect properties in both of the components */
+
+.card {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+}
